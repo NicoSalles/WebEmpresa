@@ -53,10 +53,13 @@ body{/*background-color: black;
 		background-size: cover;
 		*/
 		
-	}
 
-footer{background-color: #f60f1f;
-		font-family: 'Michroma', sans-serif;
-			text-align: center;
-		color:#ababaa;}
+	footer{
+		   background-color: #ababaa;
+		   font-family: 'Michroma', sans-serif;
+		   text-align: center;
+		   color:#f60f1f;
+		}
+}
+
 
